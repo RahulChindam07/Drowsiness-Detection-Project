@@ -1,0 +1,2 @@
+# Drowsiness-Detection-Project
+Driver Drowsiness Detection System using OpenCV and Raspberry Pi — A real-time computer vision–based safety system that detects driver fatigue through eye blink and yawn analysis using facial landmark detection. The system processes live video using OpenCV and triggers alerts when drowsiness is detected. Developed as a college group project with Raspberry Pi integration for efficient embedded implementation.
